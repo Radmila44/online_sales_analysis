@@ -1,5 +1,7 @@
 #Ignoriši sve PNG slike
 *.png
+config.json
+FinalProject_RADMILA_KLINCOV.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
