@@ -20,4 +20,3 @@ manager.display_all_products()
 
 # Ukupna vrijednost inventara
 manager.total_value()
-
